@@ -60,7 +60,7 @@ ssh <username>@<panel>.serv00.com
 
 - 2、进入到面板后复制下面代码一键安装
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/amclubs/am-serv00-vmess/main/install_serv00_vmess.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/haitunwl/am-serv00-vmess/main/install_serv00_vmess.sh)
 ```
 
 - 3、保活命令（有时母鸡重启后，会删除所有进程和定时任务，所以要手工重新执行下面保活命令，让定时任务生效，不要问为什么，因为是免费的后遗证）
